@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Hydra
+src/outputs/
+
+# dataset
+src/data/dataset/
+
+# blender
+blender-3.2.2-linux-x64/
